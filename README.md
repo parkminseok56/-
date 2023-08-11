@@ -43,13 +43,14 @@
 
 
  <p align="center">
- <img src="https://github.com/parkminseok56/Communication/assets/133790403/869672d0-458a-4e29-813d-717b29cf50f6"width="800">
+ <img src="https://github.com/parkminseok56/Communication/assets/133790403/4f1149e2-2f9e-4dfb-b991-bff60b8fe200"width="800">
 </p>
 
 
 
+
  <p align="center">
- <img src="https://github.com/parkminseok56/Communication/assets/133790403/869672d0-458a-4e29-813d-717b29cf50f6"width="800">
+ <img src="https://github.com/parkminseok56/Communication/assets/133790403/d46e7d41-c661-47ee-8a1e-cfb5ba9364f0"width="800">
 </p>
 
 
