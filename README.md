@@ -42,8 +42,9 @@
 
 
 
+
  <p align="center">
- <img src="https://github.com/parkminseok56/Communication/assets/133790403/4f1149e2-2f9e-4dfb-b991-bff60b8fe200"width="800">
+ <img src="https://github.com/parkminseok56/Communication/assets/133790403/6cc64a7e-4334-4875-acc4-a0085431e800"width="800">
 </p>
 
 
