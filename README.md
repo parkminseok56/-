@@ -57,10 +57,26 @@
 
 ## 기능정의서
 
-- 공통(https://github.com/parkminseok56/phone_fly/issues/11)
+- 각각의 기능에 대해 정의,개발요건,기능구현을 기재함
+- 팀원들과 협의를 통해서 프로젝트의 방향성을 잡아주었음
+  
 
-- 비회원(https://github.com/parkminseok56/phone_fly/issues/12)
+ <p align="center">
+ <img src="https://github.com/parkminseok56/Communication/assets/133790403/d76af851-8829-429f-b8e0-f3bd6abdc466"width="800">
+</p>
 
-- 회원https://github.com/parkminseok56/phone_fly/issues/13)
 
-- 관리자(https://github.com/parkminseok56/phone_fly/issues/14)
+ <p align="center">
+ <img src="https://github.com/parkminseok56/Communication/assets/133790403/51ce8e15-96fb-4b0c-aae8-bbe99376e255"width="800">
+</p>
+
+
+
+ <p align="center">
+ <img src="https://github.com/parkminseok56/Communication/assets/133790403/cb13da6b-3b32-4930-b0e6-f68a483144b4"width="800">
+</p>
+
+
+ <p align="center">
+ <img src="https://github.com/parkminseok56/Communication/assets/133790403/ccc45dd1-fda8-4155-a078-684986ecc435"width="800">
+</p>
