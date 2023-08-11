@@ -1,10 +1,15 @@
 # 협업준비 과정
 
-## 분할 구조도
+## 분할 구조도 (유스케이스 다이어그램)
 
- - 사용자(https://github.com/parkminseok56/phone_fly/issues/4)
+ ![분할구조도(사용자)](https://github.com/parkminseok56/Communication/assets/133790403/32c12bc9-6400-437a-8e53-d1af67fe6586)
 
- - 관리자(https://github.com/parkminseok56/phone_fly/issues/5)
+![분할구조도(관리자)](https://github.com/parkminseok56/Communication/assets/133790403/869672d0-458a-4e29-813d-717b29cf50f6)
+
+-  외부 요소와 시스템 간의 상호 작용 
+-  사용자와 요구 사항을 분석하기 위한 도구로 사용함
+-  시스템의 범위를 파악 가능
+ 
 
 ## 시퀀스 다이어그램 
 
