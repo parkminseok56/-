@@ -42,18 +42,10 @@
 
 
 
-![시퀀스 다이어그램(회원_구매 이 외)](https://github.com/parkminseok56/Communication/assets/133790403/507b5504-24f3-4d09-a388-1f47d1891aac)
-
-
  <p align="center">
  <img src="https://github.com/parkminseok56/Communication/assets/133790403/869672d0-458a-4e29-813d-717b29cf50f6"width="800">
 </p>
 
-
-
-
-
-![시퀀스 다이어그램(관리자)](https://github.com/parkminseok56/Communication/assets/133790403/54430b40-ff76-4f7e-a661-d5e0515ba769)
 
 
  <p align="center">
